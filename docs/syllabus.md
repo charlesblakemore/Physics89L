@@ -17,12 +17,12 @@ Students should be familiar with calculus concepts such as differentiation, inte
 
 ### Contact information
 
-- Instructor: Chas Blakemore (email: cblakemore@stanford.edu)
+- Instructor: Charles Blakemore (email: cblakemore@stanford.edu)
 - TAs:
   * Sephora Ruppert (email: sephora@stanford.edu)
   * Eleanor Weckworth (email: eweck@stanford.edu)
 
-Students are encouraged to attend the instructors' Open-Door Hours to ask questions about the lab report or concepts covered in lab. We also like talking about physics and data! 
+Students are encouraged to attend the instructors' Open Door Hours to ask questions about the lab report or concepts covered in lab. We also like talking about physics and data! 
 
 ### Course Expectations and Grading
 This is a 1-unit course. It is graded Satisfactory/No Credit. The class should take about 3 hours per week of your time. This includes:
@@ -43,7 +43,7 @@ For each lab, there will be a report assigned that you will work through in clas
 An average grade of 2 or higher is required for a Satisfactory grade, and you must turn in a report for every lab. Reports which receive a grade of 1 can be resubmitted for a regrade up to a week from when they were first graded. Please also email us to tell us that you have submitted it so it doesn't escape our notice. Each report is due one week after the lab and should be submitted on the Canvas website.
 
 
-Week 9 of the course is set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. Week 10 ends on a Wednesday, and so we will not have a regular class meeting for either section. Instead, the usual Wednesday section will serve as extra Open-Door Hours for you to get advice or help on your final project.
+Week 9 of the course is set aside to work on a final project using the concepts you have learned. Each student must complete a final project to receive a Satisfactory grade. Week 10 ends on a Wednesday, and so we will not have a regular class meeting for either section. Instead, the usual Wednesday section will serve as extra Open-Door Hours for you to get advice or help on your final project. 
 
 There is no required textbook for this course.
 
@@ -71,7 +71,7 @@ If you can’t attend the other section, you are allowed one absence. You can co
 | 7 | 05/13--05/17 | Distinguishing signal from background |
 | 8 | 05/20--05/24 | Frequency analysis |
 | 9 | 05/27--06/31 | Final project work | 
-| 10 | 06/03--06/05 | Final project work | 
+| 10 | 06/03--06/05 | Final project work |
 
 ### Honor code
 The Stanford Honor code is found [here](https://communitystandards.stanford.edu/policies-guidance/honor-code). We expect that students abide by the honor code.
